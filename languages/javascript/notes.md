@@ -13,3 +13,10 @@ Execution Context:
 ------------------
 
 Javascript is a synchronous single threaded language. Javascript only executes one command at a time in a specific order. So Javascript will go next line once the current line executed.
+
+
+Execution Context
+
+How JavaScript code is executed.
+
+what happen when we run a JavaScript code?
