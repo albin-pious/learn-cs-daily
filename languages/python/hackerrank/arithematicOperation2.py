@@ -33,3 +33,4 @@ if __name__ == '__main__':
     b = int(input("Enter a value of b"))
     print(a // b)
     print(a / b)
+
